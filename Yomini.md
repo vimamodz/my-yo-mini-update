@@ -2,7 +2,7 @@
 
  "version":"2.2",
 
- "title":"Supreme WhatsApp V2.2 (🚨Urgent Update🚨)",
+ "title":"SLlegendz Vimamodz Yo Mini (🚨Urgent Update🚨)",
 
  "button":"Update",
 
