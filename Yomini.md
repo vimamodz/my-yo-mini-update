@@ -1,12 +1,12 @@
 {
 
- "version":"2.2",
+ "version":"2.1",
 
  "title":"Supreme WhatsApp V2.2 (🚨Urgent Update🚨)",
 
  "button":"Update",
 
- "description":"ℹ️What is newℹ️
+ "description":"ℹ️Vima modzℹ️
 
 🚨Added Full Antiban
 
