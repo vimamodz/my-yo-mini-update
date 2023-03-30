@@ -6,11 +6,11 @@
 
  "button":"Update",
 
- "description":"ℹ️Vima modzℹ️
+ "description":"ℹ️Vima modz 😁😁😁😁😁😁😁😁😁😁😁ℹ️
 
 🚨Added Full Antiban
 
-🔴Bomb Text
+🔴Bomb Text💕💕💕❄️❄️❄️❄️❄️
 
 🔴Translator ( Conversation / Status )
 
