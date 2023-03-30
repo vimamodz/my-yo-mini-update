@@ -1,6 +1,6 @@
 {
 
- "version":"2.1",
+ "version":"2.2",
 
  "title":"Supreme WhatsApp V2.2 (🚨Urgent Update🚨)",
 
