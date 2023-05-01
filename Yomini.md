@@ -1,6 +1,6 @@
 {
 
- "version":"2.1",
+ "version":"2.2",
 
  "title":"SLlegendz Vimamodz Yo Mini (🚨 Update🚨)",
 
