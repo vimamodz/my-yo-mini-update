@@ -6,7 +6,7 @@
 
  "button":"Update",
 
- "description":"ℹ️New Legendz Stor
+ "description":"ℹ️New Legendz Stor 👈
 All Egendz Mods Application Free Download
 ",
 
