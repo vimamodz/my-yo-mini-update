@@ -11,6 +11,6 @@
 All Legendz Mods Application Free Download
 ",
 
- "download":"https://www.mediafire.com/file/kcramyrx4xbhanf/Legendz+Store_1.0.apk.bak/file"
+ "download":"https://www.mediafire.com/file/nybnh6796udonu2/Legendz+Store_1.0-signed.apk/file"
 
 }
