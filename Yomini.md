@@ -1,6 +1,6 @@
 {
 
- "version":"2.3",
+ "version":"1.1",
 
  "title":"SL LEGENDZ NEW APP STOR V.1",
 
