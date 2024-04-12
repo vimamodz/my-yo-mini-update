@@ -1,16 +1,14 @@
 {
 
- "version":"1.0",
+ "version":"1.1",
 
- "title":"SL LEGENDZ NEW APP STOR V.1",
+ "title":"ZAIRO MART STOR V.1.1",
 
  "button":"Update",
 
- "description":"ℹ️New Legendz Stor 👈
-
-All Legendz Mods Application Free Download
+ "description":"👀 All Bug Fix 
 ",
 
- "download":"https://www.mediafire.com/file/nybnh6796udonu2/Legendz+Store_1.0-signed.apk/file"
+ "download":"https://drive.google.com/uc?export=download&id=1BR0LIXOSw_Yj9yu25XVTq7-pySXYh0L2"
 
 }
