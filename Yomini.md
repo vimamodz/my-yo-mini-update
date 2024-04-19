@@ -7,7 +7,7 @@
  "button":"Update",
 
  "description":"👀 All Bug Fix 
-New Vershion Store Update Button Click
+New Version Store Update Button Click
 ",
 
  "download":"https://drive.google.com/uc?export=download&id=1JqPHhwuMv1Sp0dwjdffByYouAbrwinYT"
