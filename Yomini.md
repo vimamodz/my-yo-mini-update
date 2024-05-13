@@ -1,15 +1,16 @@
 {
 
- "version":"1.2",
+ "version":"1.4",
 
- "title":"ZAIRO MART STOR V.1.2",
+ "title":"zMStore V.1.4",
 
  "button":"Update",
 
- "description":"👀 All Bug Fix 
-New Version Store Update Button Click
+ "description":"👀 New Home Ui Added.
+  Easy download Apps & Other Item 
+  Added You Account High Security
 ",
 
- "download":"https://drive.google.com/uc?export=download&id=1JqPHhwuMv1Sp0dwjdffByYouAbrwinYT"
+ "download":"https://www.mediafire.com/file/jb2mn4p8ff8wyo5/zMStore_1.4.apk/file"
 
 }
